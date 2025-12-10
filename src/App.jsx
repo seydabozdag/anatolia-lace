@@ -1,11 +1,14 @@
-// src/App.jsx
-function App() {
-  return (
-    <>
-      <h1>Anatolia Lace</h1>
-      <p>Welcome to our handmade textile showcase.</p>
-    </>
-  )
-}
+import React from 'react';
+import Hero from './Hero';
+import Collections from './Collections';
+import Footer from './Footer';
 
-export default App
+export default function App() {
+  return (
+    <div className="bg-cream">
+      <Hero />
+      <Collections />
+      <Footer />
+    </div>
+  );
+}

@@ -1,0 +1,267 @@
+Folder PATH listing
+Volume serial number is FE9E-39B5
+C:.
++---images
++---node_modules
+|   +---.bin
+|   +---.vite
+|   |   \---deps
+|   +---.vite-temp
+|   +---@alloc
+|   |   \---quick-lru
+|   +---@babel
+|   |   +---code-frame
+|   |   |   \---lib
+|   |   +---compat-data
+|   |   |   \---data
+|   |   +---core
+|   |   |   +---lib
+|   |   |   |   +---config
+|   |   |   |   |   +---files
+|   |   |   |   |   +---helpers
+|   |   |   |   |   \---validation
+|   |   |   |   +---errors
+|   |   |   |   +---gensync-utils
+|   |   |   |   +---parser
+|   |   |   |   |   \---util
+|   |   |   |   +---tools
+|   |   |   |   +---transformation
+|   |   |   |   |   +---file
+|   |   |   |   |   \---util
+|   |   |   |   \---vendor
+|   |   |   \---src
+|   |   |       \---config
+|   |   |           \---files
+|   |   +---generator
+|   |   |   \---lib
+|   |   |       +---generators
+|   |   |       \---node
+|   |   +---helper-compilation-targets
+|   |   |   \---lib
+|   |   +---helper-globals
+|   |   |   \---data
+|   |   +---helper-module-imports
+|   |   |   \---lib
+|   |   +---helper-module-transforms
+|   |   |   \---lib
+|   |   +---helper-plugin-utils
+|   |   |   \---lib
+|   |   +---helper-string-parser
+|   |   |   \---lib
+|   |   +---helper-validator-identifier
+|   |   |   \---lib
+|   |   +---helper-validator-option
+|   |   |   \---lib
+|   |   +---helpers
+|   |   |   \---lib
+|   |   |       \---helpers
+|   |   +---parser
+|   |   |   +---bin
+|   |   |   +---lib
+|   |   |   \---typings
+|   |   +---plugin-transform-react-jsx-self
+|   |   |   \---lib
+|   |   +---plugin-transform-react-jsx-source
+|   |   |   \---lib
+|   |   +---template
+|   |   |   \---lib
+|   |   +---traverse
+|   |   |   \---lib
+|   |   |       +---path
+|   |   |       |   +---inference
+|   |   |       |   \---lib
+|   |   |       \---scope
+|   |   |           \---lib
+|   |   \---types
+|   |       \---lib
+|   |           +---asserts
+|   |           |   \---generated
+|   |           +---ast-types
+|   |           |   \---generated
+|   |           +---builders
+|   |           |   +---flow
+|   |           |   +---generated
+|   |           |   +---react
+|   |           |   \---typescript
+|   |           +---clone
+|   |           +---comments
+|   |           +---constants
+|   |           |   \---generated
+|   |           +---converters
+|   |           +---definitions
+|   |           +---modifications
+|   |           |   +---flow
+|   |           |   \---typescript
+|   |           +---retrievers
+|   |           +---traverse
+|   |           +---utils
+|   |           |   \---react
+|   |           \---validators
+|   |               +---generated
+|   |               \---react
+|   +---@esbuild
+|   |   \---.win32-x64-yWMSrLQ3
+|   +---@jridgewell
+|   |   +---gen-mapping
+|   |   |   +---dist
+|   |   |   |   \---types
+|   |   |   +---src
+|   |   |   \---types
+|   |   +---remapping
+|   |   |   +---dist
+|   |   |   +---src
+|   |   |   \---types
+|   |   +---resolve-uri
+|   |   |   \---dist
+|   |   |       \---types
+|   |   +---sourcemap-codec
+|   |   |   +---dist
+|   |   |   +---src
+|   |   |   \---types
+|   |   \---trace-mapping
+|   |       +---dist
+|   |       +---src
+|   |       \---types
+|   +---@rolldown
+|   |   \---pluginutils
+|   |       \---dist
+|   +---@rollup
+|   |   +---.rollup-win32-x64-msvc-YCEVyZ34
+|   |   \---rollup-win32-x64-gnu
+|   +---@tailwindcss
+|   |   +---node
+|   |   |   \---dist
+|   |   +---oxide
+|   |   +---oxide-win32-x64-msvc
+|   |   \---postcss
+|   |       \---dist
+|   +---@types
+|   |   +---babel__core
+|   |   +---babel__generator
+|   |   +---babel__template
+|   |   +---babel__traverse
+|   |   \---estree
+|   +---@vitejs
+|   |   \---plugin-react
+|   |       +---dist
+|   |       \---types
+|   +---autoprefixer
+|   |   +---bin
+|   |   +---data
+|   |   \---lib
+|   |       \---hacks
+|   +---baseline-browser-mapping
+|   |   \---dist
+|   +---browserslist
+|   +---caniuse-lite
+|   |   +---data
+|   |   |   +---features
+|   |   |   \---regions
+|   |   \---dist
+|   |       +---lib
+|   |       \---unpacker
+|   +---convert-source-map
+|   +---debug
+|   |   \---src
+|   +---detect-libc
+|   |   \---lib
+|   +---electron-to-chromium
+|   +---enhanced-resolve
+|   |   \---lib
+|   |       \---util
+|   +---esbuild
+|   |   +---bin
+|   |   +---lib
+|   |   \---node_modules
+|   |       \---@esbuild
+|   |           \---win32-x64
+|   +---escalade
+|   |   +---dist
+|   |   \---sync
+|   +---fdir
+|   |   \---dist
+|   +---fraction.js
+|   |   +---dist
+|   |   +---examples
+|   |   +---src
+|   |   \---tests
+|   +---gensync
+|   |   \---test
+|   +---graceful-fs
+|   +---jiti
+|   |   +---dist
+|   |   \---lib
+|   +---js-tokens
+|   +---jsesc
+|   |   +---bin
+|   |   \---man
+|   +---json5
+|   |   +---dist
+|   |   \---lib
+|   +---lightningcss
+|   |   \---node
+|   +---lightningcss-win32-x64-msvc
+|   +---loose-envify
+|   +---lru-cache
+|   +---magic-string
+|   |   \---dist
+|   +---ms
+|   +---nanoid
+|   |   +---async
+|   |   +---bin
+|   |   +---non-secure
+|   |   \---url-alphabet
+|   +---node-releases
+|   |   \---data
+|   |       +---processed
+|   |       \---release-schedule
+|   +---normalize-range
+|   +---picocolors
+|   +---picomatch
+|   |   \---lib
+|   +---postcss
+|   |   \---lib
+|   +---postcss-value-parser
+|   |   \---lib
+|   +---react
+|   |   +---cjs
+|   |   \---umd
+|   +---react-dom
+|   |   +---cjs
+|   |   \---umd
+|   +---react-refresh
+|   |   \---cjs
+|   +---rollup
+|   |   +---dist
+|   |   |   +---bin
+|   |   |   +---es
+|   |   |   |   \---shared
+|   |   |   \---shared
+|   |   \---node_modules
+|   |       \---@rollup
+|   |           \---rollup-win32-x64-msvc
+|   +---scheduler
+|   |   +---cjs
+|   |   \---umd
+|   +---semver
+|   |   \---bin
+|   +---source-map-js
+|   |   \---lib
+|   +---tailwindcss
+|   |   \---dist
+|   +---tapable
+|   |   \---lib
+|   +---tinyglobby
+|   |   \---dist
+|   +---update-browserslist-db
+|   +---vite
+|   |   +---bin
+|   |   +---dist
+|   |   |   +---client
+|   |   |   \---node
+|   |   |       \---chunks
+|   |   +---misc
+|   |   \---types
+|   |       \---internal
+|   \---yallist
+\---src
